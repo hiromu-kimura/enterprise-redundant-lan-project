@@ -1,23 +1,26 @@
 # Enterprise Redundant LAN Network Simulation
 
 ## Overview
-This project simulates a secure and redundant enterprise LAN environment using Cisco Packet Tracer.
+This project simulates a secure and redundant enterprise LAN using Cisco Packet Tracer.
 
-The network design includes VLAN segmentation, Spanning Tree Protocol (STP), Router-on-a-Stick inter-VLAN routing, and HSRP load sharing for high availability.
+## Technologies Used
+- Cisco Packet Tracer
+- VLAN, STP, HSRP
 
 ## Security Features
 - SSH secure remote management
-- Port security with sticky MAC
-- BPDU Guard on access ports
+- Port security (sticky MAC)
+- BPDU Guard setup
 
 ## High Availability Design
 - Redundant switching topology
-- HSRP failover and recovery testing
-- Root bridge redundancy
+- HSRP failover testing
 
 ## Documentation
-- Configuration report (PDF)
-- Project specification (PDF)
+- [Configuration Report (PDF)](Configuration_Report.pdf)
+- [Project Specification (PDF)](Project_Specification.pdf)
 
 ## Author
-Hiromu Kimura
+Hiromu Kimura  
+Electrical Engineering student (6th semester)  
+Preparing for CCNA certification
