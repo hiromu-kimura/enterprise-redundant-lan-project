@@ -23,4 +23,3 @@ This project simulates a secure and redundant enterprise LAN using Cisco Packet 
 ## Author
 Hiromu Kimura  
 Electrical Engineering student (6th semester)  
-Preparing for CCNA certification
